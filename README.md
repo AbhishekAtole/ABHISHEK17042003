@@ -1,4 +1,7 @@
-![Header](./github-header-image%20(2).png)
+<p align="center">
+  <img src="./github-header-image%20(2).png" alt="Header">
+</p>
+
 <h1 align="center">Hi 👋, I'm Abhishek Atole</h1>
 <h3 align="center">A passionate developer from India with expertise in C, C++, Java, Python, Linux, computer fundamentals, and multi-OS installations.</h3>
 
